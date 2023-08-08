@@ -42,7 +42,7 @@ For every order of finished products/raw materials by a retailer, the system rec
 ## 🔄️ Database design (Entity Relationship Diagram)
 From the information above, a database design can be created, as shown in Figure 1.
 <p align="center">
-![image](https://github.com/ramadhanakirana/Database-Design-Project/assets/102908444/7e33a054-2438-4fdc-9281-4adfcb689636)
+![image](https://github.com/ramadhanakirana/Database-Design-Project/assets/102908444/e49dc9ec-6e74-482f-a697-b0147814c3e0)
 </p>
 <p align="center">Figure 1. ERD.</p> <br>
 P.s The syntax is attached.
